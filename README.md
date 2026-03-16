@@ -31,7 +31,7 @@ To use this system, you will need:
 1. Clone or download this repository.
 2. Upload the `CAS_Scenario_Settings.xlsx` file to your Google Drive and convert it to a Google Sheet.
 3. Create two blank Google Sheets named `CAS_Export_Y11` and `CAS_Export_Y12` in the same folder.
-4. Import the `CAS_Monitor_with_Settings_blueprint.json` file into a new Make.com scenario.
+4. Import the `CAS_Reminders_Monitoring.blueprint.json` file into a new Make.com scenario.
 5. Follow the detailed setup instructions in the provided PDF documentation.
 
 ## Documentation
